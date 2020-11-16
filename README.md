@@ -1,2 +1,2 @@
 # NNFS
-The aim is to try to build a neural network from scratch in python
+The aim is to build a neural network from scratch in python
